@@ -1,0 +1,23 @@
+{
+  "name": "first_highchart",
+  "version": "0.0.1",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "highcharts": "^6.0.3",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress",
+    "build": "webpack"
+  }
+}
