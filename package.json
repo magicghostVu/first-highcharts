@@ -4,6 +4,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "highcharts": "^6.0.3",
+    "js-joda": "^1.6.2",
     "react": "^15.5.4",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4"
